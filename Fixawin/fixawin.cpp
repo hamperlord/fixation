@@ -1,3 +1,5 @@
+#include <xcb/xcb.h>
+#include <xcb/xproto.h>
 
 void setup();
 void setupMouse();
